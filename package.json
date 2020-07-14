@@ -1,5 +1,5 @@
 {
-  "homepage": "www.adamalston.com",
+  "homepage": "http://www.adamalston.com",
   "name": "v2",
   "version": "0.1.0",
   "private": true,
@@ -38,5 +38,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "<h1 align=\"center\">   adamalston.com </h1>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muizzk/adamalston_v2_debug_28c4aba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muizzk/adamalston_v2_debug_28c4aba/issues"
   }
 }
